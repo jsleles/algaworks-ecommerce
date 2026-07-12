@@ -1,0 +1,15 @@
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/EntityManagerTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/iniciandocomjpa/ConsultandoRegistrosTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/iniciandocomjpa/OperacoesComTransacaoTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/iniciandocomjpa/PrimeiroCrudTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/mapeamentobasico/EstrategiaChavePrimariaTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/mapeamentobasico/MapeamentoObjetoEmbutidoTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/mapeamentobasico/MapeandoEnumeracoesTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/AutoRelacionamentoTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/EagerELazyTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/OptionalTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/RelacionamentoManyToManyTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/RelacionamentoManyToOneTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/RelacionamentoOneToManyTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/RelacionamentoOneToOneTest.java
+/home/jsleles/IdeaProjects/algaworks-ecommerce/src/test/java/com/algaworks/ecommerce/relacionamentos/RemovendoEntidadesReferenciadasTest.java
