@@ -5,9 +5,6 @@ import com.algaworks.ecommerce.model.*;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.math.BigDecimal;
-import java.time.LocalDateTime;
-
 public class AutoRelacionamentoTest extends EntityManagerTest {
 
     @Test
